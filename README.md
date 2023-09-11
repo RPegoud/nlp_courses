@@ -40,12 +40,10 @@ Before you begin, ensure you have met the following requirements:
     poetry install
     ```
 
-4. Activate the virtual environment:
+4. Activate the virtual environment. You are now in the project's virtual environment, where you can run Python scripts and use the installed dependencies.:
 
     ```bash
     poetry shell
     ```
 
-You are now in the project's virtual environment, where you can run Python scripts and use the installed dependencies.
-
-5.
+5. Restart VS Code and you should be able to select the `nlp_course` kernel
