@@ -2229,16 +2229,6 @@ files = [
 ]
 
 [[package]]
-name = "sklearn"
-version = "0.0.post9"
-description = "deprecated sklearn package, use scikit-learn instead"
-optional = false
-python-versions = "*"
-files = [
-    {file = "sklearn-0.0.post9.tar.gz", hash = "sha256:1ff5864cf30489ee48a014fe8f4320d7bb59592392a4ef52ae9d7a37942615ac"},
-]
-
-[[package]]
 name = "smart-open"
 version = "6.4.0"
 description = "Utils for streaming large files (S3, HDFS, GCS, Azure Blob Storage, gzip, bz2...)"
@@ -2678,4 +2668,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.13"
-content-hash = "5dbd23e2f7d0a38974b3af108aca2306ea2e4b427dae003dabf55cb805a3ead3"
+content-hash = "fc80f253074ab87f04a2eea08f64b9db5b212f5c4449649008a3d13353571cac"

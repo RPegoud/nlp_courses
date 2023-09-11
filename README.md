@@ -47,3 +47,5 @@ Before you begin, ensure you have met the following requirements:
     ```
 
 You are now in the project's virtual environment, where you can run Python scripts and use the installed dependencies.
+
+5.
