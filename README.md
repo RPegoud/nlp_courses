@@ -2,6 +2,13 @@
 
 Welcome to the NLP Class Repository! This repository contains the code and materials for our Natural Language Processing class. To get started, follow the instructions below to set up the project environment and install the necessary dependencies using Poetry.
 
+## 💡 Courses
+* 🛁 Introduction to NLP, Preprocessing Pipeline & Text Cleaning
+* 💾 Feature Extraction Methods, Text Classification Using SkLearn
+* 🦹 Named Entity Recognition
+* 📊 Word Embeddings
+* 🧠 Sequence-to-sequence models and Deep Learning
+
 ## Table of Contents
 
 - [NLP Class Repository](#nlp-class-repository)
