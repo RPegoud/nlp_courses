@@ -26,6 +26,7 @@ seaborn = "^0.13.0"
 sklearn = "^0.0.post9"
 nbformat = "^5.9.2"
 xgboost = "^2.0.0"
+gensim = "^4.3.2"
 
 
 [tool.poetry.group.dev.dependencies]
