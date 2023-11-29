@@ -2,19 +2,28 @@
 
 Welcome to the NLP Class Repository! This repository contains the code and materials for our Natural Language Processing class. To get started, follow the instructions below to set up the project environment and install the necessary dependencies using Poetry.
 
+## 💡 Courses
+
+* 🛁 Introduction to NLP, Preprocessing Pipeline & Text Cleaning
+* 💾 Feature Extraction Methods, Text Classification Using SkLearn
+* 🦹 Named Entity Recognition
+* 📊 Word Embeddings
+* 🧠 Sequence-to-sequence models and Deep Learning
+
 ## Table of Contents
 
-- [NLP Class Repository](#nlp-class-repository)
-  - [Table of Contents](#table-of-contents)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+* [NLP Class Repository](#nlp-class-repository)
+  * [💡 Courses](#-courses)
+  * [Table of Contents](#table-of-contents)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.10  or higher installed on your system.
-- Poetry installed. If you haven't installed Poetry yet, you can do so by following the instructions [here](https://python-poetry.org/docs/) or simply running:
+* Python 3.10  or higher installed on your system.
+* Poetry installed. If you haven't installed Poetry yet, you can do so by following the instructions [here](https://python-poetry.org/docs/) or simply running:
 
     ```bash
     pip install poetry
@@ -40,12 +49,10 @@ Before you begin, ensure you have met the following requirements:
     poetry install
     ```
 
-4. Activate the virtual environment:
+4. Activate the virtual environment. You are now in the project's virtual environment, where you can run Python scripts and use the installed dependencies.:
 
     ```bash
     poetry shell
     ```
 
-You are now in the project's virtual environment, where you can run Python scripts and use the installed dependencies.
-
-5.
+5. Restart VS Code and you should be able to select the `nlp_course` kernel
